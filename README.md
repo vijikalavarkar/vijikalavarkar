@@ -1,7 +1,7 @@
 <a href="#"><img width="100%" height="auto" src="./images/banner.jpg" height="175px"/></a>
 
 <h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm Vijeth Kalavarkar</h1>
-<h3 align="center">I'm a MERN Stack Developer from India.</h3>
+<h3 align="center">I'm AWS and Devops engineer from India.</h3>
 <br>
 
 ## 🙋‍♂️ About Me
