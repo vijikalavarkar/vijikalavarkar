@@ -9,7 +9,7 @@
 
 - 🔭 I’m currently working on **[TearsFree Website]()**
 
-- 🌱 I’m currently learning **MERN STACK DEVELOPMENT**
+- 🌱 I’m currently learning **AWS and Devops**
 
 - 👯 I’m looking for Job Opertunities on **IT Sector**
 
