@@ -49,6 +49,8 @@
     <!-- Power BI -->
     <a href="https://powerbi.microsoft.com" target="_blank"> <img src="https://img.icons8.com/color/48/000000/power-bi.png"/> </a>
     <!-- AWS -->
+    <a href="https://aws.amazon.com" target="_blank"> <img src="https://img.icons8.com/?size=100&id=33039&format=png&color=000000" width="40" height="40"/> </a>
+    <!-- Kubernetes -->
     <a href="https://powerbi.microsoft.com" target="_blank"> <img src="https://img.icons8.com/?size=100&id=33039&format=png&color=000000" width="40" height="40"/> </a>
 </p>
 
